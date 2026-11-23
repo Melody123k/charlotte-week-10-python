@@ -1,0 +1,4 @@
+well_id,source_rows,deduplicated_rows_removed,inserted_slots,missing_oil_bbl,missing_water_bbl,missing_gas_mscf,missing_pressure_psi,remaining_missing_pressure,invalid_timestamp_rows
+WELL-21,16,1,1,2,2,1,2,0,0
+WELL-22,15,0,1,2,1,1,2,0,1
+WELL-23,15,1,2,2,2,3,2,0,0
